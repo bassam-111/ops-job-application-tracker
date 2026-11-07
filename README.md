@@ -44,6 +44,7 @@ follow_up_date, contact_email, notes`
 Dates are `YYYY-MM-DD`. Blank deadlines and follow-up dates are allowed.
 The shipped CSV contains **sample data only** (example.com contacts) — replace
 it with your own applications.
+All sample records in this repository are fictional.
 
 ## Tests
 
