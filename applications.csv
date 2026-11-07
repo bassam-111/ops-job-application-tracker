@@ -1,0 +1,9 @@
+company,role,location,work_mode,status,applied_date,deadline,follow_up_date,contact_email,notes
+Example Corp,Operations Coordinator,Remote,Remote,Applied,2026-10-20,2026-11-05,2026-10-27,careers@example.com,Sample row only
+Sample Logistics,Project Coordinator,Islamabad,Onsite,Interview,2026-10-22,2026-10-30,2026-10-29,hr@example.com,Sample row only
+Demo Tech,AI Automation Engineer,Remote,Remote,Applied,2026-10-24,,2026-10-31,talent@example.com,Sample row only
+Acme Support,Operations Associate,Remote,Remote,Rejected,2026-10-15,2026-10-20,,careers@example.com,Sample row only
+Northwind,Data Analyst,Remote,Remote,Offer,2026-10-18,2026-11-01,2026-10-28,hiring@example.com,Sample row only
+Globex,Product Operations Manager,Remote,Remote,Applied,2026-10-26,2026-11-09,2026-11-02,jobs@example.com,Sample row only
+Initech,Customer Operations Specialist,Islamabad,Hybrid,Applied,2026-10-27,,2026-11-03,people@example.com,Sample row only
+Umbrella Co,Workflow Automation Engineer,Remote,Remote,Shortlisted,2026-10-21,2026-11-03,2026-10-30,recruiting@example.com,Sample row only
